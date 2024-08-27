@@ -1,0 +1,12 @@
+﻿  main.cpp
+X:\Visual studio projects\Figuras\Figuras\main.cpp(135,17): warning C4244: '=': conversión de 'int' a 'float'; posible pérdida de datos
+X:\Visual studio projects\Figuras\Figuras\main.cpp(136,22): warning C4244: '=': conversión de 'int' a 'float'; posible pérdida de datos
+X:\Visual studio projects\Figuras\Figuras\main.cpp(147,18): warning C4244: 'argumento': conversión de 'int' a 'Gdiplus::REAL'; posible pérdida de datos
+X:\Visual studio projects\Figuras\Figuras\main.cpp(148,24): warning C4244: 'argumento': conversión de 'int' a 'Gdiplus::REAL'; posible pérdida de datos
+X:\Visual studio projects\Figuras\Figuras\main.cpp(148,14): warning C4244: 'argumento': conversión de 'int' a 'Gdiplus::REAL'; posible pérdida de datos
+X:\Visual studio projects\Figuras\Figuras\main.cpp(153,28): warning C4244: '=': conversión de 'int' a 'float'; posible pérdida de datos
+X:\Visual studio projects\Figuras\Figuras\main.cpp(154,25): warning C4244: '=': conversión de 'double' a 'float'; posible pérdida de datos
+X:\Visual studio projects\Figuras\Figuras\main.cpp(164,27): warning C4244: '=': conversión de 'double' a 'float'; posible pérdida de datos
+X:\Visual studio projects\Figuras\Figuras\main.cpp(165,18): warning C4244: '=': conversión de 'double' a 'float'; posible pérdida de datos
+X:\Visual studio projects\Figuras\Figuras\main.cpp(198): warning C4715: 'WindowProcessMessages': no todas las rutas de acceso de control devuelven un valor
+  Figuras.vcxproj -> X:\Visual studio projects\Figuras\x64\Debug\Figuras.exe
